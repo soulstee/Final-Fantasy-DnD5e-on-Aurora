@@ -71,7 +71,7 @@
       <grant type="Size" id="ID_SIZE_MEDIUM" />
       <grant type="Language" id="ID_LANGUAGE_COMMON" />
       <grant type="Language" id="ID_LANGUAGE_AURI" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_CRANIAL_HORNS" />
+      <grant type="Grants" id="ID_INTERNAL_GRANTS_PROFICIENCY_SKILL_OR_DOUBLE_PERCEPTION"/>
       <grant type="Racial Trait" id="ID_RACIAL_TRAIT_SCALED_BODIES" />
       <grant type="Racial Trait" id="ID_RACIAL_TRAIT_AU_RA_SUBRACE" />
     </rules>

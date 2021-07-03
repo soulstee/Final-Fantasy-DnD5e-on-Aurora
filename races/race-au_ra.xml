@@ -77,14 +77,7 @@
     </rules>
   </element>
 
-  <element name="Cranial Horns" type="Racial Trait" source="Final Fantasy XIV DnD5e" id="ID_RACIAL_TRAIT_CRANIAL_HORNS">
-    <description>
-      <p>You gain proficiency in the perception skill.</p>
-    </description>
-    <sheet>
-      <description>You gain proficiency in the perception skill.</description>
-    </sheet>
-  </element>
+
   <element name="Scaled Bodies" type="Racial Trait" source="Final Fantasy XIV DnD5e" id="ID_RACIAL_TRAIT_SCALED_BODIES">
     <description>
       <p>When unarmored, your AC is equal to 11 + your dexterity modifier.</p>
@@ -148,6 +141,7 @@
       <description>When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.</description>
     </sheet>
   </element>
+  
   <element name="Unwavering Loyalty" type="Racial Trait" source="Final Fantasy XIV DnD5e" id="ID_RACIAL_TRAIT_UNWAVERING_LOYALTY">
     <description>
       <p>You have advantage on saves against being charmed.</p>

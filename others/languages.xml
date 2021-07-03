@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+
+
+	<!-- standard -->
+	<element name="Auri" type="Language" source="Final Fantasy XIV DnD" id="ID_LANGUAGE_AURI">
+		<supports>Standard</supports>
+		<description>
+			<p>Typically spoken by humans.</p>
+		</description>
+		<setters>
+			<set name="standard">true</set>
+			<set name="speakers">Au-ra</set>
+		</setters>
+	</element>
+
+</elements>

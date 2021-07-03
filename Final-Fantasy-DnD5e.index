@@ -11,5 +11,9 @@
 	<files>
 		<!-- Races -->
         <file name="race-au_ra.xml" url="https://raw.githubusercontent.com/rogerferraro256/Final-Fantasy-DnD5e-on-Aurora/main/races/race-au_ra.xml" />
+
+
+        <!--others -->
+        <file name="languages.xml" url="https://raw.githubusercontent.com/rogerferraro256/Final-Fantasy-DnD5e-on-Aurora/main/others/languages_FF.xml"/>>
 	</files>
 </index>

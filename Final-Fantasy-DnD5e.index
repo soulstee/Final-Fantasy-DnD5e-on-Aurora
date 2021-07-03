@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Final Fantasy XIV Dnd</name>
+		<description>The Final Fantasy XIV homebrew for 5e</description>
+		<author url="https://www.gmbinder.com/share/-LsDqsNbupzeLhkTIcPv">D&amp;D Wiki</author>
+		<update version="0.0.1">
+			<file name="Final-Fantasy-DnD5e.index" url="https://raw.githubusercontent.com/community-elements/elements-dndwiki/master/dndwiki.index" />
+		</update>
+	</info>
+	<files>
+		<!-- Races -->
+        <file name="race-au_ra.xml" url="https://raw.githubusercontent.com/rogerferraro256/Final-Fantasy-DnD5e-on-Aurora/main/races/race-au_ra.xml" />
+	</files>
+</index>

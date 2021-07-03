@@ -5,7 +5,7 @@
 		<description>The Final Fantasy XIV homebrew for 5e</description>
 		<author url="https://www.gmbinder.com/share/-LsDqsNbupzeLhkTIcPv">D&amp;D Wiki</author>
 		<update version="0.0.1">
-			<file name="Final-Fantasy-DnD5e.index" url="https://raw.githubusercontent.com/community-elements/elements-dndwiki/master/dndwiki.index" />
+			<file name="Final-Fantasy-DnD5e.index" url="https://raw.githubusercontent.com/rogerferraro256/Final-Fantasy-DnD5e-on-Aurora/main/Final-Fantasy-DnD5e.index" />
 		</update>
 	</info>
 	<files>

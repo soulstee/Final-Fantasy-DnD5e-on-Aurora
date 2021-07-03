@@ -99,7 +99,7 @@
     </description>
     <sheet display="false" />
     <rules>
-      <select type="Sub Race" name="Au-ra Subrace" supports="Halfling" />
+      <select type="Sub Race" name="Au-ra Subrace" supports="Au-Ra" />
     </rules>
   </element>
 

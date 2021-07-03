@@ -77,7 +77,7 @@
     </rules>
   </element>
 
-  <element name="Cranial Horns" type="Racial Trait" source="Final Fantasy XIV DnD5e" id="ID_RACIAL_CRANIAL_HORNS">
+  <element name="Cranial Horns" type="Racial Trait" source="Final Fantasy XIV DnD5e" id="ID_RACIAL_TRAIT_CRANIAL_HORNS">
     <description>
       <p>You gain proficiency in the perception skill.</p>
     </description>

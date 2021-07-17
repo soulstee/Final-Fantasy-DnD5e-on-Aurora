@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Garlean</name>
+		<description></description>
+		<author url="https://www.gmbinder.com/share/-LsDqsNbupzeLhkTIcPv">u/SilentSoren</author>
+		<update version="0.0.1">
+			<file name="race-garlean.xml" url="" />
+		</update>
+	</info>
+
+  <element name="Garlean" type="Race" source="Final Fantasy XIV DnD5e" id="ID_RACE_GARLEAN">
+    <description>
+      <p class="flavor">Only a man of power can rightly steer the course of civilization. And in this land of creeping mendacity, that one truth will prove its salvation.</p>
+      <p class="indent">-Gaius van Baelsar, Legatus of the XIV Legion</p>
+      <p class="indent">The Garleans, who share the name of their Empire, are a people who had suffered greatly before finding the means to fight back, in doing so becoming conquerers in their own right. Garleans value advancement and ability, while looking down on those who are happy to sit in stagnation, and its this dogged dedication which has allowed them great success in the world.</p>
+      <h4>Physical Description</h4>
+      <p class="indent">The Garleans are a people with strong bodies which were backed by great mental prowess to match. Their most striking feature though is the pearl like third eye which sits in the center of their forehead. This special third eye provides Garleans with improved spatial recognition. These two great assets were met only with a damning disadvantage, an extreme difficulty when manipulating magic.</p>
+
+      <h4>Displaced Conquerers</h4>
+      <p>The Garleans are a race of people who found themselves at a disadvantage in the world. Once living in the southern, warm reaches of Ilsabard, the Garleans found themselves forced north over time. Eventually they were forced to cross treacherous peaks which divided the north and south, leading to them settle in lands with long, bitter winters and short growing periods. Their misfortune would eventually lead to a great boon in the form of ceruleum, a fuel which they were able to take advantage of start a golden era of technology for themselves.</p>
+
+      <h4>Advent of Magitek</h4>
+      <p>As nearly all Garleans are unable to manipulate aether in their bodies, they found themselves defeated time and time again by those with an aptitude for magic. That was until the discovery of ceruleum, which after experimentation and engineering led the to the birth of magitek. This came in the creation of many machines and devices which could mimic magical effects and swung the pendulum in the Garleans favour. Within 50 years of the discovery they'd managed to form a vast empire which spanned three quarters of the great continents of Aldenard.</p>
+
+      <h4>Why They Adventure</h4>
+      <p>Garleans may adventure for a variety of reasons, but two stand out amongst all the possibilities. The first would be for the benefit of their empire, to act as an ambitious patriot who seeks to better Garlemand's position in the world through hard work. The other may be to seek freedom from the chains of their society, coming from a rigid hierarchy where moving upwards is only possible by military activity leaves a bad taste in many people's mouths, so in the name of freedom and peace some Garleans may break away from their homeland and chase their dreams.</p>
+
+      <h4>Garlean Names</h4>
+      <p>Garleans names often declare one's title within the Empire as their middle name. Otherwise their traditional names find their roots in Latin, having both a first and last name.</p>
+      <p>
+        <span class="feature">Male Garlean  Names:</span>Aulus, Cid, Faust, Gaius, Ignatius, Kaius, Maxima, Nael, Nero, Noah, Quentin, Regula, Solus, Vitus, Zenos <br/>
+        <span class="feature">Female Garlean  Names:</span>Adora, Alma, Belva, Cella, Elysia, Gloria, Julia, Livia, Lucia, Minerva, Octavia, Rheya, Silvia, Vesta<br/>
+        <span class="feature">Garlean Middle Names:</span>van (Legatus), quo (Centurio), pyr (Assistant to Centurio), oen (veteran soldier), lux (head field engineer/medic), kir (veteran field engrineer/medic), jen (field engineer/medic), dus (civil servant), cen (artisan), bas (merchant), aan (person from annexed lands)<br/>
+        <span class="feature">Family Names:</span>Arvina, Asina, Baelsar, Brutus, Darnus, Gabranth, Galvus, Garlond, Hydrus, Junius, Lexentale, Messalla, Priscus, Scaeva<br/>
+      </p>
+
+      <h4>Garlean Traits</h4>
+      <p>Your Garlean character has a variety of natural abilities.</p>
+      <p>
+        <span class="feature">Ability Score Increase.</span>Your strength score increases by 2.<br/>
+        <span class="feature">Age.</span>Garleans live as long as the other races of Eorzea, reaching maturity around 18 years old and living on average to the age of 80.<br/>
+        <span class="feature">Alignment.</span>Garleans tend toward a lawful alignment as their roots trace back to a highly ordered Empire where title and rank were held in high regard.<br/>
+        <span class="feature">Size.</span>Garlean males on average tend to stand anywhere from 6 to 7 feet tall while their female counterparts tend to reach anywhere from 5 and a half to 6 feet tall. Your size is medium.<br/>
+        <span class="feature">Speed.</span>Your base walking speed is 30ft.<br/>
+        <span class="feature">Imperial Education.</span>You gain proficiency in one skill of your choice and one set of artisan's tools of your choice.<br/>
+        <span class="feature">Spatial Insight.</span> You gain proficiency in the Investigation skill.<br/>
+        <span class="feature">Third Eye.</span> You gain proficiency in the Perception skill. Additionally, ranged weapon attacks you make have an increased normal range of 10ft.<br/>
+        <span class="feature">Languages.</span> You can speak, read and write Common, Garlean and one extra language of your choice.<br/>
+      </p>
+    </description>
+    <sheet display="false" />
+    <setters>
+      <set name="names" type="male">Aulus, Cid, Faust, Gaius, Ignatius, Kaius, Maxima, Nael, Nero, Noah, Quentin, Regula, Solus, Vitus, Zenos</set>
+      <set name="names" type="female">Adora, Alma, Belva, Cella, Elysia, Gloria, Julia, Livia, Lucia, Minerva, Octavia, Rheya, Silvia, Vesta</set>
+      <set name="names" type="middle">van (Legatus), quo (Centurio), pyr (Assistant to Centurio), oen (veteran soldier), lux (head field engineer/medic), kir (veteran field engrineer/medic), jen (field engineer/medic), dus (civil servant), cen (artisan), bas (merchant), aan (person from annexed lands)</set>
+      <set name="names" type="family">Arvina, Asina, Baelsar, Brutus, Darnus, Gabranth, Galvus, Garlond, Hydrus, Junius, Lexentale, Messalla, Priscus, ScaevaArvina, Asina, Baelsar, Brutus, Darnus, Gabranth, Galvus, Garlond, Hydrus, Junius, Lexentale, Messalla, Priscus, Scaeva</set>
+      <set name="names-format">{{name}} {{middle}} {{family}}</set>
+      <set name="height" modifier="2d4">2'7"</set>
+      <set name="weight" modifier="1d4">35 lb.</set>
+    </setters>
+    <rules>
+      <stat name="strength" value="2"/>
+      <stat name="innate speed" value="30" bonus="base"/>
+      <grant type="Size" id="ID_SIZE_MEDIUM" />
+      <grant type="Language" id="ID_LANGUAGE_COMMON" />
+      <grant type="Language" id="ID_LANGUAGE_GARLEAN" />
+      <select type="Language" name="Language (Garlean)" supports="Standard||Exotic" requirements="!ID_WOTC_WGTE_GRANTS_DARKMARKED"/>
+      <select type="Proficiency" name="Skill Proficiency" supports="Skill" />
+
+      <grant type="Grants" id="ID_INTERNAL_GRANTS_PROFICIENCY_SKILL_OR_DOUBLE_INVESTIGATION"/>
+      <grant type="Grants" id="ID_INTERNAL_GRANTS_PROFICIENCY_SKILL_OR_DOUBLE_PERCEPTION"/>
+    </rules>
+  </element>
+
+
+</elements>

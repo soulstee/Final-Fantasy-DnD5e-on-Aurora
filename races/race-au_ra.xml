@@ -109,7 +109,7 @@
     <sheet display="false" />
     <rules>
       <stat name="strength" value="1" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_NOMADIC_INSTINCTS" />
+      <!-- grant type="Racial Trait" id="ID_RACIAL_TRAIT_NOMADIC_INSTINCTS" />-->
       <grant type="Grants" id="ID_INTERNAL_GRANTS_PROFICIENCY_SKILL_OR_DOUBLE_SURVIVAL"/>
       <grant type="Racial Trait" id="ID_RACIAL_TRAIT_SAVAGE_ATTACKS" />
     </rules>
@@ -127,7 +127,7 @@
     <sheet display="false" />
     <rules>
       <stat name="charisma" value="1" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_POLITE_SOCIETY" />
+      <!-- <grant type="Racial Trait" id="ID_RACIAL_TRAIT_POLITE_SOCIETY" />-->
       <grant type="Grants" id="ID_INTERNAL_GRANTS_PROFICIENCY_SKILL_OR_DOUBLE_PERSUASION"/>
       <grant type="Racial Trait" id="ID_RACIAL_TRAIT_UNWAVERING_LOYALTY" />
     </rules>

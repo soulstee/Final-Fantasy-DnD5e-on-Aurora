@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Elezen</name>
+		<description></description>
+		<author url="https://www.gmbinder.com/share/-LsDqsNbupzeLhkTIcPv">u/SilentSoren</author>
+		<update version="0.0.1">
+			<file name="race-elezen.xml" url="" />
+		</update>
+	</info>
+
+  <element name="Elezen" type="Race" source="Final Fantasy XIV DnD5e" id="ID_RACE_ELEZEN">
+    <description>
+      <p class="flavor">For centuries, our nation has been punished for the sins of our forefathers. If our punishment is to end, I believe we must right the wrongs of antiquity and move forward as a nation united. Needless to say, my father did not share this opinion.</p>
+      <p class="indent">-Ser Aymeric de Borel, Lord Commander of the Holy See</p>
+      <p class="indent">The Elezen are a race divided within themselves, and their often arrogant attitudes keep the other races at an arms reach. The Wildwood live off the lush forests, using their keen eyes to hunt and gather in the dense forests or live in the religious oligarchy of Ishgard, cut off from rest of the world. The Duskwights in contrast are notorious for thievery and pillaging. Spending much of their live in caves and caverns hidden in the forest.</p>
+      <h4>Elegance and Pride</h4>
+      <p class="indent">Long legs, slender bodies, pointed ears and sharp features are all marks of an Elezen. Only rivaling their otherworld appearance is the poise with which they carry themselves. Their tall, thin frames only differ within the race by the colour of their skin. All Elezen try to clothe themselves whenever it is appropriate, valuing their appearance</p>
+
+      <h4>Difference of Opinion</h4>
+      <p>The Elezen race is divided due to their pride. The Wildwood and Duskwights found they could not coexist and distanced themselves from one another. The Wildwood believing they are the true rulers of the forests in which they live and hold dominion. The largest population of Wildwood Elezen live in Ishgard, a massive religious city embroiled in a war against dragon kind, closed off from much of the world. The Duskwights, who made their homes in the cavern systems of the forests have since been driven to crime to survive due to the Wildwood's clutch on the boundaries of the forest.</p>
+
+      <h4>The Woods and the North</h4>
+      <p>The forest which the Elezen live is the Black Shroud, a massive forest brought to order by the Wildwood, who protect the forest from poachers and other threats which would encroach on it. Duskwights, who disregard the need to protect the forest and hunt to their content. Looking to the Northern city state of Ishgard, towering spires, homes and a grand cathedral hide behind their giant gates. Living conditions in Ishgard are rough, as the poor go hungry in the lower levels of the city, while the wealth live in exuberance, looking down on the less fortunate citizens, ruled by the religious teachings of the Holy See.</p>
+
+      <h4>Honour and Vengeance</h4>
+      <p>An Elezen may set out on an adventure for many different reasons. An Ishgardian Wildwood hungry for revenge against the dragons may set out to seek greater strength, while another may take up arms to defend their forest home from an encroaching threat against the Black Shroud. Duskwights may set out to gain honour and riches to support their family or to prove to the world they are more than just a thief. Perhaps you seek glory in battle, and head out to find this fame.</p>
+
+      <h4>Elezen Names</h4>
+      <p>Both the Wildwood and Duskwight clans of Elezen spell their names very similarly. Men's names are longer and always in -loix, -aux, -mont, or -geant. A female's name will always end in -ne, -ette, -elle, or -ie.</p>
+      <p class = "indent"> the similarity in their first names, the Elezen tribes over time claimed sur names for either side. These surnames will never cross clans, but only those who live within the race will know the difference.</p>
+      <p>
+        <span class="feature">Male Elezen Names:</span>Adeux, Beichault, Dreauchant, Eauplaux, Etrent, Gloffaux, Jodeaux, Joyent, Ulmant, Ulwex, <br/>
+        <span class="feature">Female Elezen Names:</span>Adreanne, Iflione, Eaupline, Eranne, Etrene, Moriene, Peronne, Cummone ,Phivonne ,Paxeonne<br/>
+        <span class="feature">Family Names:</span>Breaunojuste, Douvionne, Feajorins, Gehon, Glauvefand, Grurubont, Nahame, Prihaux, Shogamie, Zuhepane<br/>
+      </p>
+
+      <h4>Elezen Traits</h4>
+      <p>Your Elezen character has a variety of natural abilities.</p>
+      <p>
+        <span class="feature">Ability Score Increase.</span>Your Intelligence score increases by 2.<br/>
+        <span class="feature">Age.</span>Though Elezen are one of the longest standing races, they do not live much longer than anyone else. They reach physical maturity around age 18 and live into their nineties.<br/>
+        <span class="feature">Alignment.</span> Wildwood Elezen lean towards lawful alignments, be it their upbringing to protect the forest or life within the religious walls of Ishgard. Duskwight's have embraced the wild way of living, leaning towards chaotic alignments, viewing laws as arbitrary things.<br/>
+        <span class="feature">Size.</span>Elezen are known for their tall slender bodies. Men can reach a maximum 6 feet 8 inches and rarely are shorter than 6 foot 3 inches. Women reach a maximum of 6 and a half feet and rarely shorter than 6 feet tall. Your size is medium.<br/>
+        <span class="feature">Speed.</span>Your base walking speed is 30ft.<br/>
+        <span class="feature">Superb Hearing.</span>You gain advantage when making a perception check using your hearing.<br/>
+        <span class="feature">Languages.</span>You can speak, read and write Common and one extra language of your choice.<br/>
+        <span class="feature">Subrace.</span> The Elezen come from two different clans. Select one of the two subraces of Elezen.<br/>
+      </p>
+    </description>
+    <sheet display="false" />
+    <setters>
+      <set name="names" type="male">Adeux, Beichault, Dreauchant, Eauplaux, Etrent, Gloffaux, Jodeaux, Joyent, Ulmant, Ulwex</set>
+      <set name="names" type="female">Adreanne, Iflione, Eaupline, Eranne, Etrene, Moriene, Peronne, Cummone ,Phivonne ,Paxeonne</set>
+      <set name="names" type="family">Breaunojuste, Douvionne, Feajorins, Gehon, Glauvefand, Grurubont, Nahame, Prihaux, Shogamie, Zuhepane</set>
+      <set name="names-format">{{name}} {{family}}</set>
+      <set name="height" modifier="2d4">2'7"</set>
+      <set name="weight" modifier="1d4">35 lb.</set>
+    </setters>
+    <rules>
+      <stat name="intelligence" value="2"/>
+      <stat name="innate speed" value="30" bonus="base"/>
+      <grant type="Size" id="ID_SIZE_MEDIUM" />
+      <grant type="Language" id="ID_LANGUAGE_COMMON" />
+      <select type="Language" name="Language (Elezen)" supports="Standard||Exotic" requirements="!ID_WOTC_WGTE_GRANTS_DARKMARKED"/>
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_SUPERB_HEARING" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_ELEZEN_SUBRACE" />
+    </rules>
+  </element>
+
+
+  <element name="Scaled Bodies" type="Racial Trait" source="Final Fantasy XIV DnD5e" id="ID_RACIAL_TRAIT_SUPERB_HEARING">
+    <description>
+      <p>You gain advantage when making a perception check using your hearing.</p>
+    </description>
+    <sheet>
+      <description>You gain advantage when making a perception check using your hearing.</description>
+    </sheet>
+  </element>
+  <element name="Elezen Subrace" type="Racial Trait" source="Final Fantasy XIV DnD5e" id="ID_RACIAL_TRAIT_ELEZEN_SUBRACE">
+    <description>
+      <p>The Elezen come from two different clans. Select one of the two subraces of Elezen.</p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <select type="Sub Race" name="Elezen Subrace" supports="Elezen" />
+    </rules>
+  </element>
+
+  <element name="Wildwood Tribe" type="Sub Race" source="Final Fantasy XIV DnD5e" id="ID_SUB_RACE_WILDWOOD">
+    <supports>Elezen</supports>
+    <description>
+      <p>The Wildwood Elezen have become the protectors of the forest and masters of . Despite this, the Wildwood keep a tight hold on their homes, defending them aggressively. They have learned to live off land wherever they find themselves. Years of life in the forests of the Black Shroud has imbued them with various abilities.</p>
+      <p>
+        <span class="feature">Ability Score Increase.</span>Your Dexterity score increases by 1.<br/>
+        <span class="feature">Natural Shrewdness</span>You gain proficiency in the Insight skill..<br/>
+        <span class="feature">Hawk Sight.</span>The normal range of your ranged weapon is increased by 20ft. This cannot exceed the max range of the weapon.<br/>
+      </p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <stat name="dexterity" value="1" />
+      <!-- grant type="Racial Trait" id="ID_RACIAL_TRAIT_NOMADIC_INSTINCTS" />-->
+      <grant type="Grants" id="ID_INTERNAL_GRANTS_PROFICIENCY_SKILL_OR_DOUBLE_INSIGHT"/>
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_HAWK_SIGHT" />
+    </rules>
+  </element>
+  <element name="Duskwight Tribe" type="Sub Race" source="Final Fantasy XIV DnD5e" id="ID_SUB_RACE_DUSKWIGHT">
+    <supports>Elezen</supports>
+    <description>
+      <p>Duskwights are Elezen who made their home in the cavernous systems of the Black Shroud. Their light hair and dark skin sets them apart from their surface dwelling counterparts. Duskwights are expert cave explorers after growing up in such systems. Though the caves could not satisfy all of their needs, leading the Duskwights to build a reputation of banditry for themselves.</p>
+      <p>
+        <span class="feature">Ability Score Increase.</span>Your Constitution score increases by 1.<br/>
+        <span class="feature">Cave Dweller.</span>You gain advantage when making Stealth checks in caves or dim and dark lighting conditions.<br/>
+        <span class="feature">Darkvision</span>Due to life in the caverns your eyes have adapted to help you see in the dark. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern colour in darkness, only shades of grey.<br/>
+      </p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <stat name="constitution" value="1" />
+      <!-- <grant type="Racial Trait" id="ID_RACIAL_TRAIT_POLITE_SOCIETY" />-->
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_CAVE_DWELLER" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_DARKVISION" />
+    </rules>
+  </element>
+
+  <element name="Hawk Sight" type="Racial Trait" source="Final Fantasy XIV DnD5e" id="ID_RACIAL_TRAIT_HAWK_SIGHT">
+    <description>
+      <p>The normal range of your ranged weapon is increased by 20ft. This cannot exceed the max range of the weapon.</p>
+    </description>
+    <sheet>
+      <description>The normal range of your ranged weapon is increased by 20ft. This cannot exceed the max range of the weapon.</description>
+    </sheet>
+  </element>
+  
+  <element name="Cave Dweller." type="Racial Trait" source="Final Fantasy XIV DnD5e" id="ID_RACIAL_TRAIT_CAVE_DWELLER">
+    <description>
+      <p>You gain advantage when making Stealth checks in caves or dim and dark lighting conditions.</p>
+    </description>
+    <sheet>
+      <description>You gain advantage when making Stealth checks in caves or dim and dark lighting conditions.</description>
+    </sheet>
+  </element>
+
+  <element name="Dark Vision" type="Racial Trait" source="Final Fantasy XIV DnD5e" id="ID_RACIAL_TRAIT_DARKVISION">
+    <description>
+      <p>Due to life in the caverns your eyes have adapted to help you see in the dark. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern colour in darkness, only shades of grey.</p>
+    </description>
+    <sheet>
+      <description>Due to life in the caverns your eyes have adapted to help you see in the dark. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern colour in darkness, only shades of grey.</description>
+    </sheet>
+  </element>
+
+</elements>

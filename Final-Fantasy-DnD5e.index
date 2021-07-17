@@ -10,10 +10,18 @@
 	</info>
 	<files>
 		<!-- Races -->
-        <file name="race-au_ra.xml" url="https://raw.githubusercontent.com/rogerferraro256/Final-Fantasy-DnD5e-on-Aurora/main/races/race-au_ra.xml" />
+		<file name="race-au_ra.xml" url="https://raw.githubusercontent.com/rogerferraro256/Final-Fantasy-DnD5e-on-Aurora/main/races/race-au_ra.xml" />
+		<file name="race-elezen.xml" url="https://raw.githubusercontent.com/rogerferraro256/Final-Fantasy-DnD5e-on-Aurora/main/races/race-elezen.xml" />
+		<file name="race-garlean.xml" url="https://raw.githubusercontent.com/rogerferraro256/Final-Fantasy-DnD5e-on-Aurora/main/races/race-garlean.xml" />
+		<file name="race-hrothgar.xml" url="https://raw.githubusercontent.com/rogerferraro256/Final-Fantasy-DnD5e-on-Aurora/main/races/race-hrothgar.xml" />
+		<file name="race-lalafell.xml" url="https://raw.githubusercontent.com/rogerferraro256/Final-Fantasy-DnD5e-on-Aurora/main/races/race-lalafell.xml" />
+		<file name="race-miqo_te.xml" url="https://raw.githubusercontent.com/rogerferraro256/Final-Fantasy-DnD5e-on-Aurora/main/races/race-miqo_te.xml" />
+		<file name="race-roegadyn.xml" url="https://raw.githubusercontent.com/rogerferraro256/Final-Fantasy-DnD5e-on-Aurora/main/races/race-roegadyn.xml" />
+		<file name="race-viera.xml" url="https://raw.githubusercontent.com/rogerferraro256/Final-Fantasy-DnD5e-on-Aurora/main/races/race-viera.xml" />
 
 
-        <!--others -->
-        <file name="languages.xml" url="https://raw.githubusercontent.com/rogerferraro256/Final-Fantasy-DnD5e-on-Aurora/main/others/languages_FF.xml"/>>
+		<!--others -->
+		<file name="languages.xml" url="https://raw.githubusercontent.com/rogerferraro256/Final-Fantasy-DnD5e-on-Aurora/main/others/languages_FF.xml" />
+		
 	</files>
 </index>
